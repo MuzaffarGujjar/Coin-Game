@@ -1,3 +1,3 @@
-Flip cooin game
+# Flip Coin Game
 Flip coin game in HTML CSS and JAVASCRIPT
-mUSR TRTY
+Must Try
